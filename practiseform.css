@@ -1,0 +1,33 @@
+body{
+    font-family: effra;
+    background-image: url(../image/ho.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(255, 255, 255);
+    margin: 0 auto;
+    max-width: 1200px;
+    font-weight: 500;
+}
+input{
+    margin-left:15px;
+    padding:10px;
+    border:none;
+    background-color: rgb(247 247 247);
+}
+textarea{
+    border:none;
+    background-color: rgb(247 247 247);
+}
+fieldset{
+    width: 450px;
+}
+button{
+    padding:10px;
+    border:none;
+    background-color: rgb(255, 255, 255);
+    color:rgb(231, 19, 19);
+    font-family:effra;
+}
+main{
+    background-color: rgba(0,0,0,.1);
+    padding:60px;
